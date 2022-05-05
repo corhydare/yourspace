@@ -33,7 +33,10 @@ npm start
 
 #### Video
 
-https://github.com/corhydare/DontReadThis/blob/main/video
+
+https://user-images.githubusercontent.com/57278348/166867179-1e80dba3-c44e-4d16-b34e-d9fc163802ae.mp4
+
+
 
 ## Licenses
 
